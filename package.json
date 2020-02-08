@@ -1,0 +1,17 @@
+{
+  "name": "senecaexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js & node notes-pin-service.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "seneca": "^3.17.0",
+    "seneca-web": "^2.2.1",
+    "seneca-web-adapter-express": "^1.2.0"
+  }
+}
