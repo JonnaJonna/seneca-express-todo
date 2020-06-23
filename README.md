@@ -1,5 +1,5 @@
 # Seneca-express-todo
-A simple Todo-backend project using Seneca microservices, Node.js, Express and PM2 process manager for running the application.
+A simple Todo-backend example project for practising Seneca microservices, Node.js, Express. PM2 process manager for running the application.
 
 ## Getting started
 ### Technologies
